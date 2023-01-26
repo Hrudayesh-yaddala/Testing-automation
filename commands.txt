@@ -1,0 +1,4 @@
+#complete git configuration
+git config --list --show-origin
+
+git config --global user.name Hrudayesh
