@@ -1,6 +1,3 @@
-good_morning
-appending-second-time
-third-append
-fourth-append
-fifth-append
-sixth-append
+1st deletion-file
+appending-first-line
+appending-second-line
