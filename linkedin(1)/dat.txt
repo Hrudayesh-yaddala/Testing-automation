@@ -1,0 +1,83 @@
+computer science and engineering
+mechanical department
+civil department
+
+https://www.linkedin.com/in/ishansharma7390/
+https://www.linkedin.com/in/dharani-mahesh-813975209/
+https://www.linkedin.com/in/bhovan-dasari/
+https://www.linkedin.com/in/saisriharsha2005/
+
+PERSONAL INFO:
+Name  : Praneeth Gundabattini 
+Location  : Tenali, Andhra Pradesh, India
+About  : Student at Vasireddy Venkatadri Institute of Technology, Nambur (V), Pedakakani(M), PIN-522508(CC-BQ)
+CERTIFICATIONS:
+Understanding Google Cloud Security and Operations----(Google Cloud Training Online)
+Introduction to Programming Using Python----(HackerRank)
+Associate Cloud Engineer - Google Cloud----(Coursera)
+Professional Cloud Architect----(Google Cloud)
+Automation Anywhere Certificate Advanced RPA Professional 2022----(Google Cloud)
+SKILLS:
+Java
+Python (Programming Language)
+Communication
+Problem Solving
+=====================================================================================================================================
+PERSONAL INFO:
+Name  : Dharani Mahesh 
+Location  : Guntur, Andhra Pradesh, India
+About  : CSE(AI &ML) UnderGrad
+CERTIFICATIONS:
+deeplearning.ai----(Coursera)
+HackerRank----(HackerRank)
+SKILLS:
+Engineering
+English
+Communication
+Problem Solving
+Microsoft Excel
+Python (Programming Language)
+================================================================================================================================
+PERSONAL INFO:
+Name  : Bhovan Dasari 
+Location  : Andhra Pradesh, India
+About  : CSE (AI & ML) UnderGrad
+CERTIFICATIONS:
+Introduction to Programming Using Python----(HackerRank)
+AI For Everything----(Coursera)
+Associate Cloud Engineer----(Google Cloud)
+SKILLS:
+Communication
+Python (Programming Language)
+English
+Engineering
+Java
+Pandas (Software)
+=========================================================================================================================================
+PERSONAL INFO:
+Name  : Rankela Sai Sri Harsha 
+Location  : Pedakakani, Andhra Pradesh, India
+About  : CSE(AI&ML) UnderGrad | Seeking Full-Time Software Engineering Job | Experienced with Java and Python
+CERTIFICATIONS:
+AWS Academy Cloud Architecting----(Amazon Web Services (AWS))
+AWS Academy Graduate - AWS Academy Cloud Operations----(Amazon Web Services (AWS))
+Introduction to Programming Using HTML and CSS----(HackerRank)
+Java Basic----(HackerRank)
+Python(Advanced)----(StudySection)
+Python Foundation Certification----(Infosys Springboard)
+Problem Solving(Basic)----(HackerRank)
+Python(Basic)----(HackerRank)
+Python(Basic)----(HackerRank)
+Google Cloud Digital Leader----(Google)
+SKILLS:
+Java
+.NET Framework
+Cascading Style Sheets (CSS)
+HTML
+Core Java
+Problem Solving
+Cloud Computing
+Python (Programming Language)
+Cloud Operations
+
+
